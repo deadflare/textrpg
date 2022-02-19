@@ -1,6 +1,3 @@
-/*The goal of this is to be more organized and intuitive than the old TextRPG. Most changes do not affect what the player will see, but will make the code less messy.
-What does change for the interface is: printing < before any output line that does not expect input. printing > before any line that expects input. between things
-like rounds in fights, print # three times, each on a new line, to make things clearer. making the output more uniform.*/
 #include <iostream>
 #include <cstring>
 #include <ctime> //srand()
