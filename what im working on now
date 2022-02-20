@@ -1,0 +1,1 @@
+found an error in the inventory system. when the player was given one sword, it worked fine, he could inspect it, drop it, etc. when the player is given two swords, errors start getting thrown.
