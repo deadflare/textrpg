@@ -31,3 +31,5 @@ Ranger:
 
 Stats are influenced by equipment, buffs/debuffs, and point distribution when levelling up. Because there is no level cap, the player could get an infinite amount of
 points to distribute, so will have to cap that somewhere.
+
+if the player scores a critical hit, there's a 50% chance the enemy will be stunned for 1 turn.
