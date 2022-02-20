@@ -29,7 +29,10 @@ Ranger:
 
 85 HP, 35 MP, 85 STR, 75 INT, 25 AGI. +10% AGI when wielding a melee weapon.
 
-Stats are influenced by equipment, buffs/debuffs, and point distribution when levelling up. Because there is no level cap, the player could get an infinite amount of
-points to distribute, so will have to cap that somewhere.
+Stats are influenced by equipment, buffs/debuffs, and point distribution when levelling up. Because there is no level cap, the player could get an infinite amount
 
-if the player scores a critical hit, there's a 50% chance the enemy will be stunned for 1 turn.
+of points to distribute, so will have to cap that somewhere.
+
+in combat, if the player scores a critical hit, there's a 50% chance the enemy will be stunned for 1 round. if the enemy scores a critical hit, there's a 50%
+
+chance the player will be stunned for 1 round. not gonna give the player an unfair advantage.
