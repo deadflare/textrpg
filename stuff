@@ -1,0 +1,33 @@
+Types of weapons are
+
+ranged: bow/arrow, sling, spear. also magic. with a ranged weapon, you attack first from a distance, and then the enemy will alert and attack you.
+
+melee: sword, dagger, fists, polearm, club, war hammer. they just have different stats regarding crit chance/damage, heft (how likely enemy is to dodge), damage etc.
+the enemy attacks first while you wield a melee weapon, except for Rogues, which always attack first.
+
+magic: there's spells, attacks, and support magic (may add more later). spells debuff your opponent: may put it to sleep for a turn, decrease its damage output, or
+multiply the damage it recieves. attacks are things like shooting a fireball, which does burning damage, or an ice blast, which slows down enemy (decreases dodge and
+crit rate). and support gives the mage a buff or healing (just not mana restoration because that'd be infinite mana, or put it on a cooldown)
+
+Any character class can wield any weapon/magic, but the classes have weapons designed for that class. mages have higher mana capacity, warriors can wield heavier weapons, and rangers are good with... ranged weapons.
+
+Character class starting stats:
+
+Mage:
+
+75 HP, 50 MP, 75 STR (can carry 75lbs), 75 INT (crit rate), 25 AGI (dodge rate). +10% HP when wielding a magic weapon.
+
+Warrior:
+
+100 HP, 25 MP, 100 STR, 50 INT, 40 AGI. +10% DMG when wielding a melee weapon.
+
+Rogue:
+
+75 HP, 15 MP, 90 STR, 100 INT, 50 AGI. no weapon bonus, but will always get the first hit no matter what weapon he's wielding.
+
+Ranger:
+
+85 HP, 35 MP, 85 STR, 75 INT, 25 AGI. +10% AGI when wielding a melee weapon.
+
+Stats are influenced by equipment, buffs/debuffs, and point distribution when levelling up. Because there is no level cap, the player could get an infinite amount of
+points to distribute, so will have to cap that somewhere.
