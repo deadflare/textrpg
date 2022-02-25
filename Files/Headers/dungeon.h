@@ -12,7 +12,7 @@ int printbasestats(player playerobj, enemy enemyobj){	//every round, prints the 
 	return 0;
 }
 
-int calcdamage(){};
+int calcdamage(){};	//calculate damage the player and enemy give. will account for item damage, stats, and whatever else. currently the damage is calculated in combatloop().
 
 int combatloop(player playerobj, enemy enemyobj){
 	int round = 0;	//how long the fight has been going for.
