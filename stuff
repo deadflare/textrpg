@@ -33,6 +33,4 @@ Stats are influenced by equipment, buffs/debuffs, and point distribution when le
 
 of points to distribute, so will have to cap that somewhere.
 
-in combat, if the player scores a critical hit, there's a 50% chance the enemy will be stunned for 1 round. if the enemy scores a critical hit, there's a 50%
-
-chance the player will be stunned for 1 round. not gonna give the player an unfair advantage.
+in combat, if the player scores a critical hit, there's a 50% chance the enemy will be stunned for 1 round. if the enemy scores a critical hit, there's a 50% chance the player will be stunned for 1 round. not gonna give the player an unfair advantage.
